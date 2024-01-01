@@ -8,7 +8,7 @@ This technique allows us to unfuck retroshare-gui so it can actually work as ser
 
 
 ## We need to remove password from private key
-WARNING: Removing password from key is VERY INSECURE in fact its so insecure that you might actually die in the process but you have no other option to get retroshare to autologin anyways so it doesnt matter then.
+WARNING: Removing password from key is VERY INSECURE in fact its so insecure that you might actually die in the process but you have no other option to get retroshare to autologin anyways so you can just disregard this useless warning.
 ```
 gpg --import ~/.retroshare/retroshare_secret_keyring.gpg
 gpg --list-secret-keys --keyid-format=long
