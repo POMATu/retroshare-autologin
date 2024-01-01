@@ -8,7 +8,7 @@ while true
 do
 
 perl unlockrs.pl &
-retroshare
+nice retroshare
 sleep 1
 killall -9 retroshare
 done
