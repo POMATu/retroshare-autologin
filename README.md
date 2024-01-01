@@ -45,6 +45,12 @@ You might as well remove this private key from your PGP keychain if you are conc
 
 Debian 10, Retroshare 0.6.7
 
+## Why not patch code?
+
+- I am lazy
+- I want to update from repos like a proper human
+- I believe sending Return to window like that can be scripted and automated in a stable manner. The situation was too bad when there was password set, but just sending Return is sorta fine
+
 ## TODO
 Test how it behaves with screen locked
 
