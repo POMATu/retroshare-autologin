@@ -41,6 +41,10 @@ You might as well remove this private key from your PGP keychain if you are conc
 - Perl script waits for specific splash window title and exits or if it didnt worked then sends Return again or times out on 100th counter
 - Whole bash script loops so that this process starts again when retroshare crashes. You can quit with ctrl+c
 
+## Tested on
+
+Debian 10, Retroshare 0.6.7
+
 ## TODO
 Test how it behaves with screen locked
 
